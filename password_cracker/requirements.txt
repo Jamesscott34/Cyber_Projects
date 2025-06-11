@@ -1,0 +1,11 @@
+paramiko             # SSH brute forcing
+pymysql              # MySQL/MariaDB password cracking
+pyzipper             # Encrypted ZIP file cracking
+pdfminer.six         # PDF file parsing
+python-docx          # DOCX password validation
+py7zr                # Optional: 7z archive handling
+pycryptodome         # Needed for crypto operations in PDF/DOCX
+psutil               # Check for user/system privileges
+colorama             # Colored terminal output
+platformdirs         # Reliable cross-platform file path handling
+pywin32              # (Windows-only) for system-level access if elevated
